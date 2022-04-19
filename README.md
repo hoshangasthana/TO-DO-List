@@ -5,7 +5,7 @@ this is a javascript todos application
 
 ## Live Link
 
-- Live: [DEMO](https://rawcdn.githack.com/MahmoudBakr23/Todo-List/5e3b21a8d2adbcbf9ea92d8600b5848f8546cd55/dist/index.html)
+- Live: [DEMO](https://resonant-nasturtium-a9ee22.netlify.app)
 
 ## Built with
 
